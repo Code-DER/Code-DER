@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Game Development**
 
-- 👨‍💻 All of my projects are available at [xander-jay-cagang-portfolio.vercel.app](xander-jay-cagang-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [xander-jay-cagang-portfolio.vercel.app](https://xander-jay-cagang-portfolio.vercel.app)
 
 - 📫 How to reach me **xxxcagang@gmail.com**
 
